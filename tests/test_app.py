@@ -1,0 +1,1 @@
+# test_app.py: Testes unitários e de integração.

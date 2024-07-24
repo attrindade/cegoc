@@ -1,0 +1,1 @@
+# conftest.py: Configurações de teste, fixtures, etc.
